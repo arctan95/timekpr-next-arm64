@@ -83,3 +83,4 @@ BUILD instructions (please open terminal and install this in one go not leaving 
 References
 ----------
 - https://launchpad.net/timekpr-next
+- https://www.baeldung.com/linux/limit-user-computer-time
