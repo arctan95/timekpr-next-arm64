@@ -80,3 +80,6 @@ BUILD instructions (please open terminal and install this in one go not leaving 
     Fedora / openSUSE:
         sudo rpm -Uhv $HOME/rpmbuild/RPMS/$(arch)/timekpr-next-${TNVER}-${TNREL}*.aarch64.rpm
 ---------------------------------------------------------------------------------------------------------------------------
+References
+----------
+- https://launchpad.net/timekpr-next
